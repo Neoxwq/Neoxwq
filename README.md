@@ -1,8 +1,4 @@
-<p align=”center”>
-
-<img width=”200" height=”200" src=”[https://user-images.blahblah/75753187/123358567-aac7b900-d539-11eb-8275-0b380264bb4c.png](https://i.pinimg.com/originals/b8/02/72/b8027272774cf4a075e1112e4aec20b3.gif)" alt=”my banner”>
-
-</p>
+![Header](https://i.pinimg.com/736x/76/92/8e/76928e1f94774588d0d2bb9c599a4839.jpg)
 <h1 align="center">Hi 👋, I'm NeoByte</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
