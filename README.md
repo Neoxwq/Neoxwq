@@ -1,4 +1,4 @@
-![Header](https://i.pinimg.com/736x/76/92/8e/76928e1f94774588d0d2bb9c599a4839.jpg)
+![Header]([https://i.pinimg.com/736x/76/92/8e/76928e1f94774588d0d2bb9c599a4839.jpg](https://i.pinimg.com/originals/b8/02/72/b8027272774cf4a075e1112e4aec20b3.gif))
 <h1 align="center">Hi 👋, I'm NeoByte</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
