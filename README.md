@@ -1,3 +1,4 @@
+![Header](./your-header-image-name.png)
 <h1 align="center">Hi 👋, I'm NeoByte</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 <img align="right" alt="Coding" width="200" src="https://i.pinimg.com/736x/5e/da/97/5eda978d601ebe115a9d52afc682a5f7.jpg">
