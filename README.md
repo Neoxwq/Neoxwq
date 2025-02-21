@@ -1,7 +1,6 @@
 ![Header](./github-header-image.png)
 <h1 align="center">Hey there! 👋</h1>  
 <h3 align="center">Crafting sleek, interactive, and immersive web experiences with code</h3>
-<img align="right" alt="Coding" width="200" src="https://i.pinimg.com/736x/5e/da/97/5eda978d601ebe115a9d52afc682a5f7.jpg">
 
 Hi, I'm NeoByte – a passionate frontend developer from Indonesia dedicated to creating beautiful, interactive web experiences. I thrive on turning complex ideas into clean, engaging code, and I love working with React, Vue, and GSAP. Whether I'm building innovative projects or collaborating on new challenges, I bring creativity and a touch of humor to everything I do. Reach out at abu6apis@gmail.com and check out my portfolio to see more of my work.
 
