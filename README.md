@@ -2,6 +2,8 @@
 <h1 align="center">Hey there! 👋</h1>  
 <h3 align="center">Crafting sleek, interactive, and immersive web experiences with code</h3>
 
+I'm NeoByte, a passionate developer and designer with a love for creating innovative solutions. As an introvert, I thrive in the world of technology, where I can explore new ideas and turn them into meaningful projects. Technology is not just my passion; it's my playground where I bring my ideas to life. I have a keen interest in graphic design and enjoy diving into new advancements in technology.
+ 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.youtube.com/c/https://www.youtube.com/@abuapis6748" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@abuapis6748" height="30" width="40" /></a>
