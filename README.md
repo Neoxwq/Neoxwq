@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm NeoByte</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
+(img align="right" alt="Coding" width="400" src="https://i.pinimg.com/736x/e5/41/e6/e541e62a59b2e16561bd82e372a545d8.jpg")
 
 Hi, I'm NeoByte – a passionate frontend developer from Indonesia dedicated to creating beautiful, interactive web experiences. I thrive on turning complex ideas into clean, engaging code, and I love working with React, Vue, and GSAP. Whether I'm building innovative projects or collaborating on new challenges, I bring creativity and a touch of humor to everything I do. Reach out at abu6apis@gmail.com and check out my portfolio to see more of my work.
 
-(img align="right" alt="Coding" width="400" src="https://i.pinimg.com/736x/e5/41/e6/e541e62a59b2e16561bd82e372a545d8.jpg")
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
