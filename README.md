@@ -2,8 +2,6 @@
 <h1 align="center">Hey there! 👋</h1>  
 <h3 align="center">Crafting sleek, interactive, and immersive web experiences with code</h3>
 
-Hi, I'm NeoByte – a passionate frontend developer from Indonesia dedicated to creating beautiful, interactive web experiences. I thrive on turning complex ideas into clean, engaging code, and I love working with React, Vue, and GSAP. Whether I'm building innovative projects or collaborating on new challenges, I bring creativity and a touch of humor to everything I do. Reach out at abu6apis@gmail.com and check out my portfolio to see more of my work.
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.youtube.com/c/https://www.youtube.com/@abuapis6748" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@abuapis6748" height="30" width="40" /></a>
