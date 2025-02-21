@@ -2,9 +2,7 @@
 <h1 align="center">Hi 👋, I'm NeoByte</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
-- 👨‍💻 All of my projects are available at [https://abuapiss.vercel.app/](https://abuapiss.vercel.app/)
-
-- 📫 How to reach me **abu6apis@gmail.com**
+Hi, I'm NeoByte – a passionate frontend developer from Indonesia dedicated to creating beautiful, interactive web experiences. I thrive on turning complex ideas into clean, engaging code, and I love working with React, Vue, and GSAP. Whether I'm building innovative projects or collaborating on new challenges, I bring creativity and a touch of humor to everything I do. Reach out at abu6apis@gmail.com and check out my portfolio to see more of my work.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
