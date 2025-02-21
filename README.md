@@ -2,7 +2,7 @@
 <h1 align="center">Hey there! 👋</h1>  
 <h3 align="center">Crafting sleek, interactive, and immersive web experiences with code</h3>
 
-I'm NeoByte, a passionate developer and designer with a love for creating innovative solutions. As an introvert, I thrive in the world of technology, where I can explore new ideas and turn them into meaningful projects. Technology is not just my passion; it's my playground where I bring my ideas to life. I have a keen interest in graphic design and enjoy diving into new advancements in technology.
+I'm NeoByte, a beginner just starting to learn coding and design. I'm deeply interested in technology and enjoy exploring new things in the digital world. For me, technology is a playground and a learning space where I can experiment with new ideas and develop them into something meaningful.
  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
