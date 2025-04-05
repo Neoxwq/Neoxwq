@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+![Header](./download (3).jpeg)
 <h1 align="center">Hey there! 👋</h1>  
 <h3 align="center">Crafting sleek, interactive, and immersive web experiences with code</h3>
 
