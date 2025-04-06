@@ -2,7 +2,7 @@
 <h1 align="center">Hey there! 👋</h1>  
 <h3 align="center">Crafting sleek, interactive, and immersive web experiences with code</h3>
 
-I'm NeoByte, a beginner just starting to learn coding and design. I'm deeply interested in technology and enjoy exploring new things in the digital world. For me, technology is a playground and a learning space where I can experiment with new ideas and develop them into something meaningful.
+Hey! I’m Abu Havis — but feel free to call me Souta, I just really like that name. I'm a self-taught developer who enjoys messing around with Minecraft servers, building Discord bots, and recently diving into web development. I love creating clean, simple, and functional digital stuff. Still learning, always growing.
  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
